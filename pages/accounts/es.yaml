@@ -5,7 +5,7 @@ red_support: "Obtener ayuda con [[email]] y [[vpn]]."
 red_settings: "[[Cambiar ajustes => https://account.riseup.net]]"
 red_request: "[[Solicitar una cuenta => https://account.riseup.net/user/new]]"
 red_reset_password: "[[Restablecer contraseña => https://account.riseup.net/reset_password]]"
-red_help: "[[Crear un ticket de ayuda Riseup Red => https://support.riseup.net/es/topics/new]]"
+red_help: "[[Crear un ticket de ayuda Riseup Red => https://support.riseup.net/]]"
 
 other_title: "Otros servicios"
 other_info: "Cada uno de los siguientes servicios utiliza cuentas independientes, desvinculadas de las cuentas Riseup Red y Riseup Black."
@@ -25,7 +25,7 @@ share_info: "carga de archivos (pastebin e imagebin)."
 
 resources_title: Recursos
 security_info: "Recursos y tutoriales para una comunicación más segura."
-help_link: "[[Mesa de Ayuda Riseup => https://support.riseup.net/es/topics/new]]"
+help_link: "[[Mesa de Ayuda Riseup => https://support.riseup.net/]]"
 help_info: "Para hacernos una pregunta, utilice el formulario de la Mesa de Ayuda y cree un ticket de ayuda. Pero primero busque y lea la documentación disponible en esto sitio web."
 servers_info: "Un directorio de decenas de servidores radicales de todo el mundo."
 
