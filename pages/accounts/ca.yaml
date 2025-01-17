@@ -5,7 +5,7 @@ red_support: "Obtingueu ajuda per al [[correu electrònic => email]] i la [[vpn]
 red_settings: "[[Canvieu la vostra configuració => https://account.riseup.net]]"
 red_request: "[[Sol·liciteu un compte => https://account.riseup.net/user/new]]"
 red_reset_password: "[[Restabliu la contrasenya => https://account.riseup.net/reset_password]]"
-red_help: "[[Creeu un tiquet d'ajuda => https://support.riseup.net/en/topics/new]]"
+red_help: "[[Creeu un tiquet d'ajuda => https://support.riseup.net/]]"
 
 other_title: "Col·laboració"
 other_info: "Els serveis següents són per a la col·laboració grupal"
@@ -23,7 +23,7 @@ lists_unsubscribe: "[[Cancel·la la subscripció => subscribing]]"
 
 resources_title: Recursos
 security_info: "Recursos i tutorials per a una comunicació més segura."
-help_link: "[[Taulell d'ajuda de Riseup => https://support.riseup.net/en/topics/new]]"
+help_link: "[[Taulell d'ajuda de Riseup => https://support.riseup.net/]]"
 help_info: "Per posar-vos en contacte amb nosaltres amb una pregunta,
   utilitzeu el formulari del taulell d'ajuda per crear un tiquet d'ajuda.
   Però primer, cerqueu i llegiu la documentació en línia que es troba

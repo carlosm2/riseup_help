@@ -5,7 +5,7 @@ red_support: "Get help on [[email]] and [[vpn]]."
 red_settings: "[[Change my settings => https://account.riseup.net]]"
 red_request: "[[Request an account => https://account.riseup.net/user/new]]"
 red_reset_password: "[[Reset lost password => https://account.riseup.net/reset_password]]"
-red_help: "[[Create a help ticket => https://support.riseup.net/en/topics/new]]"
+red_help: "[[Create a help ticket => https://support.riseup.net/]]"
 
 other_title: "Collaboration"
 other_info: "The following services are for group collaboration"
@@ -23,7 +23,7 @@ lists_unsubscribe: "[[Unsubscribe => subscribing]]"
 
 resources_title: Resources
 security_info: "Resources and tutorials for more secure communication."
-help_link: "[[Riseup Help Desk => https://support.riseup.net/en/topics/new]]"
+help_link: "[[Riseup Help Desk => https://support.riseup.net/]]"
 help_info: "In order to contact us with a question, use the help desk form to
   create a help ticket. But first, please search and read the online
   documentation found on this site."

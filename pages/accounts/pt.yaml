@@ -6,7 +6,7 @@ red_support: "Ajuda com [[email]] e [[vpn]]."
 red_settings: "[[Mude suas configurações => https://account.riseup.net]]."
 red_request: "[[Solicite uma conta => https://account.riseup.net/user/new]]."
 red_reset_password: "[[Recupere sua senha => https://account.riseup.net/reset_password]]."
-red_help: "[[Crie um tíquete de ajuda Riseup Red => https://support.riseup.net/en/topics/new]]."
+red_help: "[[Crie um tíquete de ajuda Riseup Red => https://support.riseup.net/]]."
 
 other_title: "Outros serviços"
 other_info: "Cada um dos serviços a seguir requer uma conta independente,
@@ -27,7 +27,7 @@ share_info: "upload de arquivos (pastebin e imagebin)."
 
 resources_title: Recursos
 security_info: "Recursos e tutoriais para uma comunicação mais segura."
-help_link: "[[Central de Atendimento Riseup => https://support.riseup.net/en/topics/new]]"
+help_link: "[[Central de Atendimento Riseup => https://support.riseup.net/]]"
 help_info: "Para fazer uma pergunta, use o formulário da Central de Atendimento para
   criar um tíquete de ajuda. Mas antes, por favor, pesquise e leia a documentação
   on-line disponível neste site."
