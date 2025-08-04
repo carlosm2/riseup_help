@@ -32,22 +32,22 @@ Q: Why does the new Canary not mention gag orders, FISA court orders, National S
 A: Our initial Canary strategy was only harming users by freaking them out unnecessarily when minor events happened. A Canary is supposed to signal important risk information to users, but there is also danger in signaling the wrong thing to users or leading to general fear and confusion for no good reason. The current Canary is limited to significant events that could compromise the security of Riseup users.
 
 0. https://riseup.net/about-us/press/canary-statement
-1. https://www.motherjones.com/politics/2025/05/supreme-court-oklahoma-catholic-charter-school/
+1. https://www.motherjones.com/politics/2025/08/lily-tang-williams-maggie-goodlander-new-hampershire/
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJKBAEBCgA0FiEETgeRJo98Z+q+iPGwMEPitxOado4FAmgT6MgWHGNvbGxlY3Rp
-dmVAcmlzZXVwLm5ldAAKCRAwQ+K3E5p2jucXEACF4Qr9KfxGH6R4ppOFh8TQ3MuZ
-RnnTBUJuCDIzzWpbz5/UoDyqR0dT6vAkUB1ppka/u3L2Ywvhas5brNDwQ5tL6aeR
-xJlPV1nSW0qKwobeMUt2YEIAUfxvHCUkHnOX9zw/6YX0FU1S8TqXZDE9rW+EE5xP
-pHUExzStilBXTA4mlV0B6R/NnqmXGsC6m8SOdJ6gpSdbKXz33503fjfdYORRifdv
-b4OJs0rdslfb46I+xdGJZCgWI5+EEfec6OZNy+B/Jtswgqu43CF7SlyEPBZRoeNw
-6Y07KmSeX8u4jQx29BokJWu9Iz/Oh5bJ7VeLf1vBEsEW5fyBJO74mXmeWgDdqazQ
-95JFXo3O7kfZUnD5O003ZfT910GwDMnURjmRMtynSq0RzTp0t2mvt95E/4GE/+V7
-77ODU9hXwaxfA/9l6Goz0DwoKW3p433dGPZptB/LtGvsEW+hRo1DFWDJo2jW9IEE
-6ZdY2sgAmDw7mIJBHvo0YzQ7ADX1J1d5rncWUDxGMbEVMnmjCk31FxyhyBBoxrPJ
-ZJDWA/Y4RJf7fgx8cmUhtI+IEWdnMERZhI7g1xa4M9qJKqmY4eOwy9GuFhRY4Qgh
-RfIRLTfbexbwX+8qN2qaDKdzzikndCzQxSLZQGPZgpLb9e83SuSpCZLv+mggF9Rd
-H+D6a5VH96M53GeVlg==
-=fMFA
+iQJKBAEBCgA0FiEETgeRJo98Z+q+iPGwMEPitxOado4FAmiQyRkWHGNvbGxlY3Rp
+dmVAcmlzZXVwLm5ldAAKCRAwQ+K3E5p2jvguD/wL+iubrs1q7Exd1wGOlB/xvjpi
+35ut3/63HCv2SngeeXzEfI/tDLSoopq4y74EW1py15+zXzoqG03QNnWJKSH9JiuN
+rz7HPJjFKPR2wQain8lxAiw2uoeh1qMQxygE7LAUFSdbHpNAfIOWeypjDXMvlEJT
+gPJVhzrg/E2RoqXTqK12J+sMoRzayE2fLhyEAZMJqZU9mtibGMGFXg06U3rwDTYE
+2R8a9XYKqoaMbWZ7VRjLivzFoJRiGWSK1p1A6awVJ9SBgxAigPSKSEX1k0mHB5Tu
+muiLvbTqHvgo3DOQgyZyq+mJ2bHdb16DW9aewvAx5QI312C46671Qx4zcfnN1v+j
+B/JXQ8gie5SMDDE9cZMJiO0/M6JBplIU/4/DqxRWNWtcgghGWYaUx0NHKEyt/M8l
+JcNu0GNooNR1vv9TQlu4MBMy6965cxD2y0VZNm+ddtwOlQ2ho6F/ELSK5aEY7I5F
+OOBhv3vXKYDYYvzdJPvfyuvjHxcFiFNKnbmh+f55VcEdw2RLuk0ukB0DTthzKoAw
+c0uEzJ8aUeAAPfD5k/Xfk/NZW+i9zhPSj5SBBXlRSrTgFhDIKTbTn+sWAFTjzlCC
+GyMjwrleqS3l4Up4wKtvZlUEnD75k6lO+4ovJqhW6ujWUSwEAQz0Vep/wsnMZxZe
+v+VCrkkZTlWhFQ7Csw==
+=pUZI
 -----END PGP SIGNATURE-----
