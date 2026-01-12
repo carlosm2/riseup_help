@@ -6,7 +6,7 @@ red_support: "Ζήτα βοήθεια για το [[email]] και το [[vpn]].
 red_settings: "[[Άλλαξε τις ρυθμίσεις σου => https://account.riseup.net]]"
 red_request: "[[Κάνε αίτημα για νέο λογαριασμό => https://account.riseup.net/user/new]]"
 red_reset_password: "[[Επανέφερε το χαμένο κωδικό σου => https://account.riseup.net/reset_password]]"
-red_help: "[[Δημιούργησε ένα αίτημα βοήθειας για Riseup Red => https://support.riseup.net/en/topics/new]]"
+red_help: "[[Δημιούργησε ένα αίτημα βοήθειας για Riseup Red => https://support.riseup.net/]]"
 
 other_title: "Άλλες Υπηρεσίες"
 other_info: "Οι ακόλουθες υπηρεσίες χρησιμοποιούν ανεξάρτητους λογαριασμούς οι οποίοι
@@ -27,7 +27,7 @@ share_info: "Ανέβασμα/Φιλοξενία αρχείων (pastebin και
 
 resources_title: Πηγές
 security_info: "Πηγές και Οδηγίες για ασφαλέστερη επικοινωνία."
-help_link: "[[Κέντρο υποστήριξης Riseup => https://support.riseup.net/en/topics/new]]"
+help_link: "[[Κέντρο υποστήριξης Riseup => https://support.riseup.net/]]"
 help_info: "Για να έρθετε σε επαφή μαζί μας αν έχετε κάποια απορία, χρησιμοποιείστε
   το κέντρο υποστήριξης δημιουργώντας ένα αίτημα βοήθειας. Πρώτα όμως ψάξτε και διαβάστε
   τα κείμενα που υπάρχουν στο ήδη online στο site."

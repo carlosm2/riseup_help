@@ -8,11 +8,11 @@
 
 <a class="btn btn-default" href="#donazioni-tramite-posta">Posta</a> <a class="btn btn-default" href="#donazioni-online">Online</a> <a class="btn btn-default" href="#donare-criptovaluta">Criptovaluta</a>
 
-<p class="pull-right"><img class="image-right" src="img/red-leap-medium.jpg" alt="red-leap-medium"></p>
+<p class="pull-right"><img class="image-right" src="/donate/img/red-leap-medium.jpg" alt="red-leap-medium"></p>
 
 Riseup lavora instancabilmente nel creare tecnologie alternative di base che indirizzino le necessità relative alle comunicazioni delle persone e delle organizzazioni che lavorano per il cambiamento sociale. Quando usi un servizio da un'azienda che non ti fa pagare nulla,  è probabile che i soldi provengano dalla sorveglianza e dalla vendita dei tuoi dati. Riseup, d'altra parte, fa affidamento sulle donazioni degli utenti come te che credono nel supporto delle alternative democratiche.
 
-Per ulteriori informazioni su Riseup, puoi [[incontrare i nostri membri => about-us]] e dare un'occhiata ai nostri [[progetti => projects]]. Riseup è una [[organizzazione no-profit => donate/img/Riseup-Networks-Federal-Tax-Exemption-Notice.pdf]] sottoposta alla sezione `501(c)(4)` dell'US Internal Revenue Code.
+Per ulteriori informazioni su Riseup, puoi [[incontrare i nostri membri => about-us]] e dare un'occhiata ai nostri [[progetti => projects]]. Riseup è una [[organizzazione no-profit => /donate/img/Riseup-Networks-Federal-Tax-Exemption-Notice.pdf]] sottoposta alla sezione `501(c)(4)` dell'US Internal Revenue Code.
 
 Le donazioni fatte a Riseup **non** sono deducibili. Se vuoi fare una donazione deducibile dalle tasse (negli Stati Uniti), puoi [[contribuire alla nostra organizzazione sorella, Riseup Labs => https://riseuplabs.org/donate]]
 

@@ -2,7 +2,7 @@
   %h2.hidey= t :bitcoin
   .panel-heading
     %strong#bitcoin
-      <img src="img/bitcoin.png">
+      <img src="/about-us/donate/img/bitcoin.png">
       Bitcoin (BTC)
   .panel-body
     %p= t :bitcoin_description
@@ -13,28 +13,21 @@
       %b
         To setup a recurring donation with Coinbase, login to your Coinbase account, click Tools, then click Recurring Transactions. Then click New Recurring Transaction, pick Send.
         <p>
-        Then click the Generate button on our page below (where it says "Grab a new address"), use that address in the To box in Coinbase.
+        In the To box in Coinbase use the address in the One Time Donation section below.
         <p>
         <p>
         If you know a better way to do this, please let us know!
     <br>
     %p= t :one_time_donation
 
-    %table.table.donation
-      %tr
-        %td
-          %b
-            = t :grab_address
-        %td
-          %form(action="/new-address/btc-segwit" method="post")
-            %input(type="submit" value="#{t :generate}")
-        %td= t :segwit_description
+    .donation
+      bc1qwwht7phkv0cc6exp5zq5ffz0ydzgjqepk962uy
 
 .panel.panel-default
   %h2.hidey= t :zcash
   .panel-heading
     %strong#zcash
-      <img src="img/zcash.png">
+      <img src="/about-us/donate/img/zcash.png">
       ZCash (ZEC)
   .panel-body
     %p= t :zcash_description
@@ -45,7 +38,7 @@
   %h2.hidey= t :monero
   .panel-heading
     %strong#monero
-      <img src="img/monero.png">
+      <img src="/about-us/donate/img/monero.png">
       Monero (XMR)
   .panel-body
     %p= t :monero_description
@@ -56,7 +49,7 @@
   %h2.hidey= t :ethereum
   .panel-heading
     %strong#ethereum
-      <img src="img/eth.png">
+      <img src="/about-us/donate/img/eth.png">
       Ethereum (ETH)
   .panel-body
     %p= t :ethereum_description
@@ -67,12 +60,10 @@
   %h2.hidey= t :bcash
   .panel-heading
     %strong#bcash
-      <img src="img/bitcoin-cash.png">
+      <img src="/about-us/donate/img/bitcoin-cash.png">
       Bitcoin Cash (BCH)
   .panel-body
     %p= t :bcash_description
     .donation
-      %form(action="/new-address/bch" method="post")
-        %b= t :grab_address
-        %input(type="submit" value="#{t :generate}")
+      qp33uczaaz08l927pufvszme4k69e9gfhuavf28ema
 
